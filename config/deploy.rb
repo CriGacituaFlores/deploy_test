@@ -1,5 +1,5 @@
 # config valid only for Capistrano 3.1
-lock '3.1.0'
+lock '3.4.1'
 
 set :application, 'deploy_test'
 set :repo_url, 'git@github.com:CriGacituaFlores/deploy_test.git'
